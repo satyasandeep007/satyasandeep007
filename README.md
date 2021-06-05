@@ -17,15 +17,10 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-<br />
-
 **MERN Stack** ***Developer*** 💻.
-
-<br />
 
 **loves ❤️ coding** ***and coffee *** ☕
 
-<br />
  
 <!--
 **satyasandeep007/satyasandeep007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
