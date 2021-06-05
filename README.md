@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Sandeep Kumar.
+### Satya Sandeep
 
 
 <a href="https://www.linkedin.com/in/satyasandeep">
@@ -12,17 +12,13 @@
 </a>
 
 
-
-
 <br />
 <br />
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+**MERN Stack ** ***Developer*** 💻.
+**loves ❤️ coding ** ***and coffee *** ☕
  
-
-I'm a 24 years old MERN Stack Developer based in Bangalore. 
-I describe myself as a passionate developer who loves ❤️ coding and coffee ☕.
-
 <!--
 **satyasandeep007/satyasandeep007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
