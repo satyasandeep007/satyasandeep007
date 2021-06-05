@@ -16,11 +16,14 @@
 <br />
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+
 <br />
 
-**MERN Stack ** ***Developer*** 💻.
+**MERN Stack** ***Developer*** 💻.
+
 <br />
-**loves ❤️ coding ** ***and coffee *** ☕
+
+**loves ❤️ coding** ***and coffee *** ☕
 
 <br />
  
