@@ -1,6 +1,6 @@
-### Satya Sandeep
+## Satya Sandeep
 
-## MERN Stack || NodeJS || ReactJS
+### MERN Stack || NodeJS || ReactJS
 
 
 <a href="https://www.linkedin.com/in/satyasandeep">
@@ -19,9 +19,9 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-**MERN Stack** ***Developer*** 💻.
+**MERN Stack Developer** 💻. ***Who loves ❤️ **coding** and **coffee**.☕*** 
 
-**loves ❤️ coding** ***and coffee *** ☕
+
 
  
 <!--
