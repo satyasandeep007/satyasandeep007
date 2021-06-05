@@ -1,5 +1,7 @@
 ### Satya Sandeep
 
+## MERN Stack || NodeJS || ReactJS
+
 
 <a href="https://www.linkedin.com/in/satyasandeep">
   <img align="left" alt="Sandeep's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
