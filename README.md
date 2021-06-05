@@ -19,7 +19,7 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-**MERN Stack Developer** 💻. ***Who loves ❤️ **coding** and **coffee**.☕*** 
+**Developer cum Traveller** 💻. ***Who loves ❤️ **coding** and **coffee**.☕*** 
 
 
 
