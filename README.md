@@ -19,7 +19,7 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
-**Developer cum Traveller** 💻. ***Who loves ❤️ **coding** and **coffee**.☕*** 
+**#Developer💻 #Traveller #BikeLover** .
 
 
 
@@ -30,19 +30,17 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Logistics Project using MERN Stack
-- 🌱 I’m currently learning Redis
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Coding
-- 📫 How to reach me: +91 89784 94898
-- 😄 Pronouns: He
+- 📫 How to reach me: +91 89784 94898 or email me at hello@satyasandeep.in
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; React | JavaScript | HTML | CSS  
 - 🌐 &nbsp; NodeJs | AWS EC2 | Heroku 
-- 🛢 &nbsp; MSSQL | MongoDB 
-- 🔧 &nbsp; Visual Studio code | Git
+- 🛢 &nbsp; MongoDB | MSSQL 
+- 🔧 &nbsp; Visual Studio code | Git | Docker Desktop
 
 
 <br>
