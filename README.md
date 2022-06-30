@@ -17,7 +17,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **WEB3 DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **#Developer💻 #Traveller #BikeLover** .
 
@@ -30,9 +30,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Block Chain, Smart Contracts
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Coding
+- 💬 Ask me about Coding, Travel, Long Rides
 - 📫 How to reach me: +91 89784 94898 or email me at hello@satyasandeep.in
 
 <h3>🛠 Tech Stack</h3>
