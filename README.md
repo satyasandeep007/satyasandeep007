@@ -1,40 +1,44 @@
-<h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-
-<p align="center"> 
-	<img src="https://img.shields.io/github/followers/satyasandeep007?label=Followers&color=brightgreen&style=flat-square" alt="satyasandeep007" /> 
-  <img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="satyasandeep007" /> 
-  
-</p>
-
-<h2 align="center"> 📍 Profile Visitor Count </h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/satyasandeep007/count.svg" alt="satyasandeep007" /> 
-</p>
-
-<br />
-
-A **WEB3 DEVELOPMENT** ***Enthusiast*** 🚀.
-
-**#Developer💻 #Traveller #BikeLover** .
- 
 <!--
 **satyasandeep007/satyasandeep007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Block Chain, Smart Contracts
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about Coding, Travel, Long Rides
+<h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
+<p align="center"> 
+	<img src="https://img.shields.io/github/followers/satyasandeep007?label=Followers&color=brightgreen&style=flat-square" alt="satyasandeep007" /> 
+  	<img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="satyasandeep007" /> 
+</p>
+
+<!--
+	<h2 align="center"> 📍 Profile Visitor Count </h2>
+	<p align="center">
+	  <img src="https://profile-counter.glitch.me/satyasandeep007/count.svg" alt="satyasandeep007" /> 
+	</p>
+	<br />
+-->
+<img align="right" height="300" width="300" src="https://media-exp1.licdn.com/dms/image/C5603AQHSmdlR4z1law/profile-displayphoto-shrink_400_400/0/1631088893193?e=1666828800&v=beta&t=NZ-IOAyV-q4N4wLD3yuD4X9-eyICh9voNYQVpoB1brc" alt="satyasandeep" />
+
+**#Developer💻 #Traveller 🏍 #Foodie 🥗** .
+
+- 🧛 I am a 25 years old Full Stack Web Developer based out of Bangalore. 
+- 👯 I describe myself as a passionate developer who loves ❤️ coding and coffee ☕ and loves to travel on weekends.
+- 🌱 I’m currently learning Block Chain, Writing Smart contracts in solidity
+- 👀 I’m looking to collaborate on Open Source Projects
+- 💁 Ask me about Coding, Travel, Long Rides
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
   <br>
 
+<details>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<summary>
+	<h2>💪 Skills </h2>
+</summary>
 
 <h4> Languages </h4>
 <span> 
@@ -100,12 +104,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
-
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
   <br>
 
- <h2 align="center"> 📊 Github stats </h2>
+<details>
+<summary>
+ <h2 align="center">🎖 Github stats </h2>
+ </summary>
       <br/>
         <p align="center">
           <a href="https://github.com/satyasandeep007">
@@ -127,6 +134,7 @@ Here are some ideas to get you started:
           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=satyasandeep007" />
        </p>
      <br>
+     </details>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
   <br>
