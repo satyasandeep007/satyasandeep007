@@ -124,8 +124,8 @@ Here are some ideas to get you started:
         </p>
         <p align="center">
           <a href="https://github.com/satyasandeep007">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" alt="satyasandeep007" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" alt="satyasandeep007" />
           </a>
        </p>
        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
