@@ -115,27 +115,27 @@ Here are some ideas to get you started:
  </summary>
       <br/>
         <p align="center">
-          <a href="https://github.com/satyasandeep007">
+          <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasandeep007&langs_count=6&layout=compact&hide_border=true&theme=react" target="_blank">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasandeep007&langs_count=6&layout=compact&hide_border=true&theme=react" 
           alt="satyasandeep007 :: Top Langs" /></a>
-          <a href="https://github.com/satyasandeep007">
+          <a href="https://activity-graph.herokuapp.com/graph?username=satyasandeep007&area=true&point=transparent&theme=react-dark"  target="_blank">
           <img width="49.5%" alt="satyasandeep007 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satyasandeep007&area=true&point=transparent&theme=react-dark" />
           </a>
         </p>
         <p align="center">
-          <a href="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react">
+          <a href="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" target="_blank">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" alt="satyasandeep007" />
 	  </a>
-	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react">
+	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" target="_blank">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" alt="satyasandeep007" />
           </a>
        </p>
-       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank">
        	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 	</a>
   <br>
        <p align="center">
-       	 <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007">
+       	 <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007" target="_blank">
           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=satyasandeep007" />
 	  </a>
        </p>
