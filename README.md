@@ -115,34 +115,34 @@ Here are some ideas to get you started:
  </summary>
       <br/>
         <p align="center">
-          <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasandeep007&langs_count=6&layout=compact&hide_border=true&theme=react" target="_blank">
+          <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasandeep007&langs_count=6&layout=compact&hide_border=true&theme=react" target="_blank" rel="noreferrer">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasandeep007&langs_count=6&layout=compact&hide_border=true&theme=react" 
           alt="satyasandeep007 :: Top Langs" /></a>
-          <a href="https://activity-graph.herokuapp.com/graph?username=satyasandeep007&area=true&point=transparent&theme=react-dark"  target="_blank">
+          <a href="https://activity-graph.herokuapp.com/graph?username=satyasandeep007&area=true&point=transparent&theme=react-dark" target="_blank" rel="noreferrer">
           <img width="49.5%" alt="satyasandeep007 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satyasandeep007&area=true&point=transparent&theme=react-dark" />
           </a>
         </p>
         <p align="center">
-          <a href="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" target="_blank">
+          <a href="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" target="_blank" rel="noreferrer">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" alt="satyasandeep007" />
 	  </a>
-	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" target="_blank">
+	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" target="_blank" rel="noreferrer">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" alt="satyasandeep007" />
           </a>
        </p>
-       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank">
+       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank" rel="noreferrer">
        	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 	</a>
   <br>
        <p align="center">
-       	 <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007" target="_blank">
+       	 <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007" target="_blank" rel="noreferrer">
           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=satyasandeep007" />
 	  </a>
        </p>
      <br>
      </details>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
   </a>
   <br>
@@ -151,21 +151,21 @@ Here are some ideas to get you started:
   <h2 align="center">📞 You can reach out to me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/satyasandeep/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/satyasandeep/" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="satyasandeep" height="30"/></a>
-      <a href="https://mailto:hello@satyasandeep.in" target="blank"><img align="center"
+      <a href="https://mailto:hello@satyasandeep.in" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="satyasandeep" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/satyasandeep007" target="blank"><img align="center"
+      <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="satyasandeep" height="30"/></a>
-      <a href="https://wa.me/+918978494898" target="blank"><img align="center"
+      <a href="https://wa.me/+918978494898" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="satyasandeep" height="30"/></a>
-      <a href="https://twitter.com/satyasandeep76" target="blank"><img align="center"
+      <a href="https://twitter.com/satyasandeep76" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="satyasandeep" height="30"/></a>
       <br>
