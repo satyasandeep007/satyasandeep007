@@ -123,21 +123,30 @@ Here are some ideas to get you started:
           </a>
         </p>
         <p align="center">
-          <a href="https://github.com/satyasandeep007">
+          <a href="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=satyasandeep007&show_icons=true&hide_border=true&theme=react" alt="satyasandeep007" />
+	  </a>
+	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasandeep007&theme=react" alt="satyasandeep007" />
           </a>
        </p>
-       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
+       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+       	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+	</a>
   <br>
        <p align="center">
+       	 <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007">
           <img width="90%" src="https://github-profile-trophy.vercel.app/?username=satyasandeep007" />
+	  </a>
        </p>
      <br>
      </details>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
+  </a>
   <br>
+  
   
   <h2 align="center">📞 You can reach out to me by:</h2>
     <p align="center">
