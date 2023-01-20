@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	</p>
 	<br />
 -->
-<img align="right" height="300" width="300" src="https://media-exp1.licdn.com/dms/image/C5603AQHSmdlR4z1law/profile-displayphoto-shrink_400_400/0/1631088893193?e=1666828800&v=beta&t=NZ-IOAyV-q4N4wLD3yuD4X9-eyICh9voNYQVpoB1brc" alt="satyasandeep" />
+<img align="right" height="300" width="300" src="https://media.licdn.com/dms/image/C5603AQHSmdlR4z1law/profile-displayphoto-shrink_400_400/0/1631088893193?e=1679529600&v=beta&t=Iay1sg2h2kv-RrSjcgh5pfKtjdse_apvnL5kR-5X5U4" alt="satyasandeep" />
 
 **#Developer💻 #Traveller 🏍 #Foodie 🥗** .
 
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
-  <br>
 
 <details>
 
@@ -106,8 +104,6 @@ Here are some ideas to get you started:
 </span>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                 
-  <br>
 
 <details>
 <summary>
@@ -142,9 +138,6 @@ Here are some ideas to get you started:
      <br>
      </details>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
-  </a>
   <br>
   
   
