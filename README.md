@@ -43,12 +43,16 @@
         </a>
     </p>
 
-<p align="center">
+
+<!-- <p align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=satyasandeep007" target="_blank" rel="noreferrer">
         <img width="90%" src="https://github-profile-trophy.vercel.app/?username=satyasandeep007" />
     </a>
-</p>
+</p> -->
 </div>
+
+<br />
+<br />
 
 <h2 align="center">📞 You can reach out to me by:</h2>
 <p align="center">
@@ -56,12 +60,7 @@
     <a href="https://www.linkedin.com/in/satyasandeep/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="satyasandeep" height="30" /></a>
-    <a href="https://mailto:hello@satyasandeep.in" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="satyasandeep" height="30" /></a>
-</p>
-<p align="center">
-    <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer"><img align="center"
+     <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
             alt="satyasandeep" height="30" /></a>
     <a href="https://wa.me/+918978494898" target="_blank" rel="noreferrer"><img align="center"
@@ -72,3 +71,4 @@
             alt="satyasandeep" height="30" /></a>
     <br>
 </p>
+
