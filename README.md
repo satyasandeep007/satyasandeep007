@@ -15,10 +15,13 @@
 - 🌱 Learning Blockchain, writing Solidity smart contracts.
 - 👀 Open to exciting open-source collaborations.
 - 💬 Ask me about coding, travel, and long rides.
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## GitHub Stats
-
 <br />
 <div>
     <p align="center">
@@ -43,6 +46,7 @@
 </p> -->
 </div>
 
+<br />
 <br />
 
 ## Connect with Me
