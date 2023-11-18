@@ -1,32 +1,24 @@
-<h2 align="center"> Hi There, Welcome to my Github profile! <img
-        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2 align="center">  Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
+</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/satyasandeep007?label=Followers&color=brightgreen&style=flat-square"
-        alt="satyasandeep007" />
-    <img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square"
-        alt="satyasandeep007" />
+    <img src="https://img.shields.io/github/followers/satyasandeep007?label=Followers&color=brightgreen&style=flat-square" alt="satyasandeep007" />
+    <img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="satyasandeep007" />
 </p>
 
-<img align="right" height="300" width="300"
-    src="https://avatars.githubusercontent.com/u/52450973?v=4"
-    alt="satyasandeep" />
+<img align="right" height="300" width="300" src="https://avatars.githubusercontent.com/u/52450973?v=4" alt="satyasandeep" />
 
-**#Developer💻 #Traveller 🏍 #Foodie 🥗** .
+## About Me
 
-- 🧛 I am a 25 years old Full Stack Web Developer based out of Bangalore.
-- 👯 I describe myself as a passionate developer who loves ❤️ coding and coffee ☕ and loves to travel on weekends.
-- 🌱 I’m currently learning Block Chain, Writing Smart contracts in solidity
-- 👀 I’m looking to collaborate on Open Source Projects
-- 💁 Ask me about Coding, Travel, Long Rides
+- 👨‍💻 Full Stack Web Developer in Bangalore, 25 years old.
+- 👯 Passionate about coding, coffee, and exploring.
+- 🌱 Learning Blockchain, writing Solidity smart contracts.
+- 👀 Open to exciting open-source collaborations.
+- 💬 Ask me about coding, travel, and long rides.
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h2 align="center">🎖 Github stats </h2>
+## GitHub Stats
+
 <br />
 <div>
     <p align="center">
@@ -52,23 +44,20 @@
 </div>
 
 <br />
-<br />
 
-<h2 align="center">📞 You can reach out to me by:</h2>
+## Connect with Me
+
 <p align="center">
-    <br />
-    <a href="https://www.linkedin.com/in/satyasandeep/" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="satyasandeep" height="30" /></a>
-     <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-            alt="satyasandeep" height="30" /></a>
-    <a href="https://wa.me/+918978494898" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-            alt="satyasandeep" height="30" /></a>
-    <a href="https://twitter.com/satyasandeep76" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-            alt="satyasandeep" height="30" /></a>
-    <br>
+    <a href="https://www.linkedin.com/in/satyasandeep/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="satyasandeep" height="30" />
+    </a>
+    <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="satyasandeep" height="30" />
+    </a>
+    <a href="https://wa.me/+918978494898" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="satyasandeep" height="30" />
+    </a>
+    <a href="https://twitter.com/satyasandeep76" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="satyasandeep" height="30" />
+    </a>
 </p>
-
