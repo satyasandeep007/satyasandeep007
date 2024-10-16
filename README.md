@@ -67,9 +67,7 @@
     <a href="https://instagram.com/satyasandeep007" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="satyasandeep" height="30" />
     </a>
-    <a href="https://wa.me/+918978494898" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="satyasandeep" height="30" />
-    </a>
+    
     <a href="https://twitter.com/satyasandeep76" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="satyasandeep" height="30" />
     </a>
