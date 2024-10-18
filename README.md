@@ -1,6 +1,3 @@
-<h2 align="center">  Hi there, welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-</h2>
-
 <p align="center">
     <img src="https://img.shields.io/github/followers/satyasandeep007?label=Followers&color=brightgreen&style=flat-square" alt="satyasandeep007" />
     <img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="satyasandeep007" />
