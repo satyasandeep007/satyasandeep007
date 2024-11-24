@@ -3,7 +3,9 @@
     <img src="https://komarev.com/ghpvc/?username=satyasandeep007&label=Profile%20Views&color=brightgreen&style=flat-square" alt="satyasandeep007" />
 </p>
 
-<img align="right" height="300" width="300" src="https://avatars.githubusercontent.com/u/52450973?v=4" alt="satyasandeep" />
+
+<a href="https://app.daily.dev/satyasandeep"><img src="https://api.daily.dev/devcards/v2/1m4T6t25YDgtpGs6GmNF1.png?type=default&r=wy4" alt="Satya Sandeep's Dev Card" align="right" height="356" width="300"/></a>
+
 
 ## 🌟 About Me
 
