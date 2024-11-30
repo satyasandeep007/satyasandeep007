@@ -4,7 +4,6 @@
 </p>
 
 
-<a href="https://app.daily.dev/satyasandeep"><img src="https://api.daily.dev/devcards/v2/1m4T6t25YDgtpGs6GmNF1.png?type=default&r=wy4" alt="Satya Sandeep's Dev Card" align="right" height="356" width="300"/></a>
 
 
 ## 🌟 About Me
